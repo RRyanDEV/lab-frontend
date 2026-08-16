@@ -8,8 +8,8 @@
 │   │   └── 📄 countdown.js
 │   ├── 📁 styles
 │   │   └── 🎨 main.css
-│   ├── 📝 README.md
 │   └── 🌐 index.html
+├── 📝 README.md
 ├── 📄 setup_event.ps1 # Script para rodar em Windows
 └── 📄 setup_event.sh  # Script para rodar em MacOS
 ```
