@@ -25,8 +25,8 @@
 
 1. Abra o Terminal do macOS (você pode usar a busca do Spotlight pressionando `Cmd + Espaço` e digitando "Terminal").
 
-2. Navegue até a pasta onde você salvou o arquivo `setup_evento.sh` (usando o comando `cd`).
+2. Navegue até a pasta onde você salvou o arquivo `setup_event.sh` (usando o comando `cd`).
 
-3. Dê permissão de execução ao script com o comando: `chmod +x setup_evento.sh`.
+3. Dê permissão de execução ao script com o comando: `chmod +x setup_event.sh`.
 
-4. Execute o script com: `./setup_evento.sh`.
+4. Execute o script com: `./setup_event.sh`.

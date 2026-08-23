@@ -34,10 +34,14 @@ lab-frontend
 │   ├── TechConnect2026
 │   │   ├── scripts
 │   │   ├── styles
-│   │   ├── README.md
 │   │   └── index.html
+│   ├── README.md
 │   ├── setup_event.ps1
 │   └── setup_event.sh
+── ex02
+│   └── first-app-flask
+│       ├── templates
+│       └── app.py
 ├── .gitignore
 └── README.md
 ```
