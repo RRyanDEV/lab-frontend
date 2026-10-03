@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "flask": "source .venv/bin/activate && flask run" 
+    }
+}

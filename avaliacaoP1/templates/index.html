@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bem Vindo ao meu site</title>
+  </head>
+  <body>
+    <h1>Catálogo de IAs</h1>
+    <p>Escolha uma das nossas IA`s disponivéis.</p>
+
+    <div>
+      <a href="/claude"><h1>Claude Code</h1></a>
+      <p>Categoria: Produtividade</p>
+      <p>
+        <img src="{{url_for('imgs', filename='claude.png')}}" width="150" />
+      </p>
+    </div>
+
+    <div>
+      <a href="/gemini"><h1>Gemini</h1></a>
+      <p>Categoria: Geração de Textos</p>
+      <img src="{{url_for('imgs', filename='gemini.png')}}" width="150" />
+    </div>
+
+    <div>
+      <a href="/gpt"><h1>Chat GPT</h1></a>
+      <p>Categoria: Criador de Imagens</p>
+      <img src="{{url_for('imgs', filename='gpt.png')}}" width="150" />
+    </div>
+  </body>
+</html>

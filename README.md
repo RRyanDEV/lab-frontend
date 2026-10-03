@@ -30,6 +30,12 @@ https://github.com/othneildrew/Best-README-Template
 
 ```
 lab-frontend
+├── avaliacaoP1
+│   ├── static
+│   ├── templates
+│   ├── README.md
+│   ├── app.py
+│   └── package.json
 ├── ex01
 │   ├── TechConnect2026
 │   │   ├── scripts
@@ -38,10 +44,19 @@ lab-frontend
 │   ├── README.md
 │   ├── setup_event.ps1
 │   └── setup_event.sh
-── ex02
-│   └── first-app-flask
-│       ├── templates
-│       └── app.py
+├── ex02
+│   ├── first-app-flask
+│   │   ├── templates
+│   │   ├── app.py
+│   │   └── package.json
+│   └── README.md
+├── ex03
+│   ├── website-flask
+│   │   ├── templates
+│   │   ├── app.py
+│   │   └── package.json
+│   └── README.md
+├── .gitattributes
 ├── .gitignore
 └── README.md
 ```
